@@ -6,7 +6,7 @@
     ```
 3. done
 
-it is most simple? i love rust.
+it is most simple. i love rust.
 
 # build & run
 rust have very useful package manager `cargo`
